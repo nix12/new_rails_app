@@ -1,0 +1,2 @@
+Ask about rspec testing the remember_me function of the rails tutorial.
+Ask about rspec testing of if someone is logged in/authenticated.
